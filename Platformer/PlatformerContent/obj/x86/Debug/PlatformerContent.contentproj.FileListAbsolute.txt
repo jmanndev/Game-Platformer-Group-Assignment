@@ -1,0 +1,9 @@
+C:\Users\cert2it\Desktop\Platformer\Platformer\PlatformerContent\obj\x86\Debug\PlatformerContent.contentprojResolveAssemblyReference.cache
+C:\Users\cert2it\Downloads\Platformer\Platformer\Platformer\PlatformerContent\obj\x86\Debug\PlatformerContent.contentprojResolveAssemblyReference.cache
+C:\Users\cert2it\Desktop\Platformer (1)\Platformer\Platformer\PlatformerContent\obj\x86\Debug\PlatformerContent.contentprojResolveAssemblyReference.cache
+C:\Users\cert2it\Desktop\23-4-2014\Platformer\Platformer\PlatformerContent\obj\x86\Debug\PlatformerContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Platformer\Platformer\PlatformerContent\obj\x86\Debug\PlatformerContent.contentprojResolveAssemblyReference.cache
+C:\Users\cert2it\Desktop\Platformer with Level\Platformer\PlatformerContent\obj\x86\Debug\PlatformerContent.contentprojResolveAssemblyReference.cache
+G:\Platformer with Level\Platformer with Level\Platformer\PlatformerContent\obj\x86\Debug\PlatformerContent.contentprojResolveAssemblyReference.cache
+F:\Platformer with Level\Platformer with Level\Platformer\PlatformerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer with Level\Platformer with Level\Platformer\PlatformerContent\obj\x86\Debug\PlatformerContent.contentprojResolveAssemblyReference.cache

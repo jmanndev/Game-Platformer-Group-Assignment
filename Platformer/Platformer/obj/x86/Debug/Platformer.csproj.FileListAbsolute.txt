@@ -1,0 +1,107 @@
+C:\Users\cert2it\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\tile.xnb
+C:\Users\cert2it\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+C:\Users\cert2it\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+C:\Users\cert2it\Desktop\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+C:\Users\cert2it\Desktop\Platformer\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\cert2it\Desktop\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+C:\Users\cert2it\Desktop\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+C:\Users\cert2it\Downloads\Platformer\Platformer\Platformer\Platformer\bin\x86\Debug\Content\tile.xnb
+C:\Users\cert2it\Downloads\Platformer\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+C:\Users\cert2it\Downloads\Platformer\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+C:\Users\cert2it\Downloads\Platformer\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+C:\Users\cert2it\Downloads\Platformer\Platformer\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\cert2it\Downloads\Platformer\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+C:\Users\cert2it\Downloads\Platformer\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+C:\Users\cert2it\Downloads\Platformer\Platformer\Platformer\Platformer\bin\x86\Debug\Content\player.xnb
+C:\Users\cert2it\Desktop\Platformer (1)\Platformer\Platformer\Platformer\bin\x86\Debug\Content\tile.xnb
+C:\Users\cert2it\Desktop\Platformer (1)\Platformer\Platformer\Platformer\bin\x86\Debug\Content\player.xnb
+C:\Users\cert2it\Desktop\Platformer (1)\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+C:\Users\cert2it\Desktop\Platformer (1)\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+C:\Users\cert2it\Desktop\Platformer (1)\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+C:\Users\cert2it\Desktop\Platformer (1)\Platformer\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\cert2it\Desktop\Platformer (1)\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+C:\Users\cert2it\Desktop\Platformer (1)\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+C:\Users\cert2it\Desktop\23-4-2014\Platformer\Platformer\Platformer\bin\x86\Debug\Content\tile.xnb
+C:\Users\cert2it\Desktop\23-4-2014\Platformer\Platformer\Platformer\bin\x86\Debug\Content\player.xnb
+C:\Users\cert2it\Desktop\23-4-2014\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+C:\Users\cert2it\Desktop\23-4-2014\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+C:\Users\cert2it\Desktop\23-4-2014\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+C:\Users\cert2it\Desktop\23-4-2014\Platformer\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\cert2it\Desktop\23-4-2014\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+C:\Users\cert2it\Desktop\23-4-2014\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+C:\Users\cert2it\Desktop\23-4-2014\Platformer\Platformer\Platformer\bin\x86\Debug\Content\bullet.xnb
+C:\Users\cert2it\Desktop\23-4-2014\Platformer\Platformer\Platformer\bin\x86\Debug\Content\orb.xnb
+C:\Users\Jason\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\tile.xnb
+C:\Users\Jason\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\player.xnb
+C:\Users\Jason\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Jason\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\orb.xnb
+C:\Users\Jason\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+C:\Users\Jason\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+C:\Users\Jason\Desktop\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Platformer\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jason\Desktop\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+C:\Users\Jason\Desktop\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+C:\Users\cert2it\Desktop\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\player.xnb
+C:\Users\cert2it\Desktop\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\bullet.xnb
+C:\Users\cert2it\Desktop\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\orb.xnb
+C:\Users\cert2it\Desktop\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\tile.xnb
+C:\Users\cert2it\Desktop\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+C:\Users\cert2it\Desktop\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+C:\Users\cert2it\Desktop\Platformer with Level\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+C:\Users\cert2it\Desktop\Platformer with Level\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\cert2it\Desktop\Platformer with Level\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+C:\Users\cert2it\Desktop\Platformer with Level\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+C:\Users\cert2it\Desktop\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\font.xnb
+C:\Users\cert2it\Desktop\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\Castle-Background.xnb
+C:\Users\cert2it\Desktop\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\logo.xnb
+C:\Users\cert2it\Desktop\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\names\Jason.xnb
+C:\Users\cert2it\Desktop\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\names\Jono.xnb
+C:\Users\cert2it\Desktop\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\names\sol.xnb
+G:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\player.xnb
+G:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\bullet.xnb
+G:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\orb.xnb
+G:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\tile.xnb
+G:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\Castle-Background.xnb
+G:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\logo.xnb
+G:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\names\Jason.xnb
+G:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\names\Jono.xnb
+G:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\names\sol.xnb
+G:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\font.xnb
+G:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+G:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+G:\Platformer with Level\Platformer with Level\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+G:\Platformer with Level\Platformer with Level\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Platformer with Level\Platformer with Level\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+G:\Platformer with Level\Platformer with Level\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+F:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\player.xnb
+F:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\bullet.xnb
+F:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\orb.xnb
+F:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\tile.xnb
+F:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\Castle-Background.xnb
+F:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\logo.xnb
+F:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\names\Jason.xnb
+F:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\names\Jono.xnb
+F:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\names\sol.xnb
+F:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\font.xnb
+F:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+F:\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+F:\Platformer with Level\Platformer with Level\Platformer\Platformer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Platformer with Level\Platformer with Level\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Platformer with Level\Platformer with Level\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+F:\Platformer with Level\Platformer with Level\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\player.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\bullet.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\orb.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\tile.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\Castle-Background.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\logo.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\names\Jason.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\names\Jono.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\names\sol.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Content\font.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer with Level\Platformer with Level\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer with Level\Platformer with Level\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer with Level\Platformer with Level\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer with Level\Platformer with Level\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer with Level\Platformer with Level\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
